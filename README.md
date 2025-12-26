@@ -44,7 +44,5 @@
 ---
 
 ## 🔗 Links
-- 🌐 Website: https://x16-pros.netlify.app
-- 💬 Telegram: https://t.me/PRoXChannel
-- 🧠 Discord: PRoX_Dev
+- 🧠 Discord: platon2w
 
