@@ -5,7 +5,6 @@
 
 </div>
 
----
 
 ## 🧠 About me
 - 🛠️ **Engine Developer** — building my **own game engine**
