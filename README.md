@@ -2,7 +2,6 @@
 
 # Hi 👋, I'm Platon
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=;Building+my+own+Game+Engine;Rust+Python+%7C+Linux;Low-level+Programming+Enthusiast" />
 
 </div>
 
