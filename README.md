@@ -8,19 +8,19 @@
 
 ## 🧠 About me
 - 🛠️ **Engine Developer** — building my **own game engine**
-- 💻 Programmer in **Rust, Python**
-- 🔬 Interested in **low-level programming** and engine architecture
+- 💻 Programmer in **C#**
+- 🔬 Interested in **Unity** and engine architecture
 
 ---
 
 ## 🚀 Currently
 - 🔭 Working on my **own Game Engine**
-- 💬 Ask me about **Game Engines, Low-level programming**
+- 💬 Ask me about **Game Engines, Game Delelopment**
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,rust,vim,linux" />
+  <img src="https://skillicons.dev/icons?i=unity,c#,vim,linux" />
 </p>
 
