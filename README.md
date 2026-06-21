@@ -8,8 +8,8 @@
 
 ## 🧠 About me
 - 🛠️ **Engine Developer** — building my **own game engine**
-- 💻 Programmer in **C#**
-- 🔬 Interested in **Unity** and engine architecture
+- 💻 Programmer in **C**
+- 🔬 Interested engine architecture
 
 ---
 
@@ -21,6 +21,6 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,vim,linux" />
+  <img src="https://skillicons.dev/icons?i=c,vim,linux, vscode" />
 </p>
 
