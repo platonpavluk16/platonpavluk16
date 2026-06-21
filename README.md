@@ -21,6 +21,6 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,vim,linux, code" />
+  <img src="https://skillicons.dev/icons?i=c,vim,linux" />
 </p>
 
